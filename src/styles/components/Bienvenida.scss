@@ -1,0 +1,21 @@
+.nameAirLine{
+    color: seagreen;
+    font-weight: bold;
+   
+}
+
+.mensajeBienvenida{
+    font-size: 25px;
+}
+
+@media screen and(max-width:990px){
+    .mensajeBienvenida{
+        font-size: 30px;
+    }
+}
+
+@media screen and(max-width:390px){
+    .mensajeBienvenida{
+        font-size: 25px;
+    }
+}
